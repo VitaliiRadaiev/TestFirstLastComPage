@@ -1,0 +1,7 @@
+<svg width="400" height="177" viewBox="0 0 400 177" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="testAnim">
+<rect id="bg" width="400" height="177" fill="#BEC7DF"/>
+<path id="line-2" d="M62.5 87.508C62.5 87.508 100.5 56.008 131 54.508C161.5 53.008 190 101.01 230.5 110.508C271 120.006 333.5 87.508 333.5 87.508" stroke="#D258C5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="line-1" d="M62.5 87.508C62.5 87.508 100 130 130.5 128.5C161 127 218 57.9998 261 58C304 58.0002 333.5 87.508 333.5 87.508" stroke="#44FFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
